@@ -1,10 +1,12 @@
 .Tablica{
-    margin: 50px;
+    margin: 10px;
+    /*padding: 10px;*/
     display: flex;
     align-items: center;
-    /*text-align: center;*/
     justify-content: center;
 }
+td{padding: 10px 0px 10px 5%;}
+
 body{
     font-family:'futura';
     background-color: #EBE7DE;
@@ -19,6 +21,7 @@ body{
     font-family: 'Futura';
     font-style: normal;
     font-weight: 100;
+    width: 160px;
     /*line-height: 80%;*/
     font-size:14pt;
     vertical-align:bottom;
@@ -28,28 +31,6 @@ body{
     /*padding:1px 1px 1px 1px;}*/}
 .ritz .waffle .s0:hover{
     color: #000000;
-}
-.dop {
-    position: fixed;
-    /*text-align: left;*/
-    height: 30px;
-    padding-top: 15px;
-    text-align: center;
-    padding-left: 40px;
-    border-radius: 100px  ;
-    color: #FFFFFF;
-}
-thead{
-    margin-left: 80px;
-    background: #5362E5;
-    width: 550px;
-    opacity: 0.8;
-
-}
-th{
-    padding-right: 100px;
-    padding-bottom: 30px;
-
 }
 
 .Irregular{
@@ -63,11 +44,23 @@ th{
     color: #2945FF;
 }
 
+.Irregularh2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Futura';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 85px;
+    color: #FFFFff;
+}
+.Irrh2{
+    padding: 0px 95px 0px 0px;
+}
 .logo{
     width: 100px;
 }
 .menubar{
-    display: flex;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -78,8 +71,12 @@ th{
     margin-top: 30px;
    margin-bottom: 60px;
 }
-
-
+.menubarposition{
+    display: flex;
+    position: center;
+    align-items: first;
+    justify-content: center;
+}
 
 
 .dropbtn {
