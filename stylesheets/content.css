@@ -1,6 +1,16 @@
-Body{
+body{
+    font-family:'futura';
+    background-color: #EBE7DE;
+    align-items: center;
+    justify-content: center;
     width: 100%;
 }
+
+.body{
+    overflow: hidden;
+    width: 100%;
+}
+
 a{
     text-decoration: none;
 }
@@ -11,20 +21,14 @@ a{
     align-items: center;
     justify-content: center;
 }
-td{padding: 10px 0px 10px 5%;}
+td{padding: 10px 0 10px 5%;}
 
-body{
-    font-family:'futura';
-    background-color: #EBE7DE;
-    align-items: center;
-    justify-content: center;
-}
+
 
 .ritz .waffle .s0{
     background-color:#EBE7DE;
     text-align:left;
     color:#5362E5;
-    font-family: 'Futura';
     font-style: normal;
     font-weight: 100;
     width: 175px;
@@ -53,7 +57,6 @@ body{
 .Irregularh2{
     display: flex;
     justify-content: center;
-    font-family: 'Futura';
     font-style: normal;
     font-weight: 500;
     font-size: 32px;
@@ -137,5 +140,50 @@ body{
 .dropdown:hover .dropdown-content {display: block;}
 
 .perviyecran{
+margin-top: -8%;
+display: flex;
+align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.perviytext{
+    width: 75%;
+}
+
+
+.perviyecran h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8vh;
+    width:100%;
+    line-height: 120%;
+}
+.perviytext p{
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 120%;
+    color: #5A5A5A;
+    margin-top: 2%;
+}
+.perviyimg{
+    margin-left: -120%;
+   width: 280%;
 
 }
+.pervimg{
+    width: 20%;
+    padding: 5%;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+    animation: rotation  10s linear infinite ;
+    /*animation-duration: 2s;*/
+    animation-delay: 2s;
+}
+
+/*@keyframes rotation {*/
+/*   from{transform:rotate(0deg);}*/
+/*    to {transform:rotate(360deg);}*/
+/*}*/
+
+
