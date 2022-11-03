@@ -1,3 +1,7 @@
+Body{
+    width: 100%;
+}
+
 .Tablica{
     margin: 10px;
     /*padding: 10px;*/
@@ -61,20 +65,21 @@ body{
     width: 100px;
 }
 .menubar{
+    width: 80%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    width: 1210px;
     height: 91px;
     margin-top: 30px;
    margin-bottom: 30px;
 }
 .menubarposition{
+    width: 100%;
     display: flex;
     position: center;
-    align-items: first;
+    align-items: center;
     justify-content: center;
 }
 
@@ -86,7 +91,13 @@ body{
     border: none;
     background-color: #EBE7DE;
 }
-
+.pmenubar{
+    font-family: 'Futura';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+}
 .dropdown {
     position: relative;
     display: inline-block;
@@ -100,12 +111,16 @@ body{
 }
 
 .dropdown-content a {
-    color: black;
+    color: #2945FF;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
 
-.dropdown-content a:hover {color: #ddd;}
+.dropdown-content a:hover {
+    color: #EBE7DE;
+    background-color: #5362E5;
+    border-radius: 5px;
+}
 
 .dropdown:hover .dropdown-content {display: block;}
