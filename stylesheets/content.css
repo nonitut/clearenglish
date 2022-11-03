@@ -1,7 +1,9 @@
 Body{
     width: 100%;
 }
-
+a{
+    text-decoration: none;
+}
 .Tablica{
     margin: 10px;
     /*padding: 10px;*/
@@ -25,7 +27,7 @@ body{
     font-family: 'Futura';
     font-style: normal;
     font-weight: 100;
-    width: 160px;
+    width: 175px;
     /*line-height: 80%;*/
     font-size:14pt;
     vertical-align:bottom;
@@ -92,11 +94,17 @@ body{
     background-color: #EBE7DE;
 }
 .pmenubar{
-    font-family: 'Futura';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
     line-height: 60px;
+}
+
+.pmen{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
 }
 .dropdown {
     position: relative;
@@ -112,10 +120,13 @@ body{
 
 .dropdown-content a {
     color: #2945FF;
+    background: #EBE7DE ;
     padding: 12px 16px;
     text-decoration: none;
+    border-radius: 5px;
     display: block;
 }
+
 
 .dropdown-content a:hover {
     color: #EBE7DE;
@@ -124,3 +135,7 @@ body{
 }
 
 .dropdown:hover .dropdown-content {display: block;}
+
+.perviyecran{
+
+}
