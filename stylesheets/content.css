@@ -105,6 +105,9 @@ td{padding: 10px 0 10px 5%;}
     font-size: 40px;
     line-height: 60px;
 }
+.pmenubar:hover{
+    color: #2945FF;
+}
 
 .pmen{
     font-style: normal;
