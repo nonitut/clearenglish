@@ -218,3 +218,18 @@ footer p{
 
 
 
+.contenttime{
+    width: 100%;
+    margin: 10%;
+}
+.imghanddiv{
+    width: 100%;
+    display: block;
+    position: absolute;
+    justify-content: right;
+}
+.imghand{
+margin-left: 55%;
+    width: 50%;
+}
+
