@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="763b2a15-0839-4e70-86a9-2f48a8ab7198" name="Changes" comment="Выпадающий список">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/content.css" afterDir="false" />
+    <list default="true" id="763b2a15-0839-4e70-86a9-2f48a8ab7198" name="Changes" comment="меню бар сделаль">
       <change beforePath="$PROJECT_DIR$/verbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/verbs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +68,7 @@
       <workItem from="1666790308511" duration="1460000" />
       <workItem from="1666794711298" duration="535000" />
       <workItem from="1667418956781" duration="1153000" />
+      <workItem from="1667473608906" duration="195000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1665997453164</created>
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667418978756</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="меню бар сделаль">
+      <created>1667473654413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667473654413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +148,7 @@
     <MESSAGE value="26/10/22 menubar+irregular" />
     <MESSAGE value="irregular+" />
     <MESSAGE value="Выпадающий список" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выпадающий список" />
+    <MESSAGE value="меню бар сделаль" />
+    <option name="LAST_COMMIT_MESSAGE" value="меню бар сделаль" />
   </component>
 </project>
