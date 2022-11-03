@@ -13,10 +13,16 @@ body{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: none;}
+a:visited {
+    color: black /* Цвет посещенных ссылок */
 }
+a:active {
+    color: black; /* Цвет активных ссылок */
+}
+
 .Tablica{
-    margin: 10px;
+    margin-top:4%;
     width: 100%;
     /*padding: 10px;*/
     display: flex;
@@ -24,7 +30,7 @@ a{
     justify-content: center;
     margin-bottom: 10%;
 }
-td{padding: 10px 0 10px 5%;}
+td{padding: 10px 0 10px 6%;}
 
 
 
@@ -34,7 +40,7 @@ td{padding: 10px 0 10px 5%;}
     color:#5362E5;
     font-style: normal;
     font-weight: 100;
-    width: 200px;
+    width: 220px;
     /*line-height: 80%;*/
     font-size:14pt;
     vertical-align:bottom;

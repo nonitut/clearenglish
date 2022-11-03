@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763b2a15-0839-4e70-86a9-2f48a8ab7198" name="Changes" comment="первый экран пилится">
-      <change afterPath="$PROJECT_DIR$/img/151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Group 152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/future.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/present.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usefull.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/148.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/148.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/verbs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,6 +44,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -78,7 +81,9 @@
       <workItem from="1666794711298" duration="535000" />
       <workItem from="1667418956781" duration="1153000" />
       <workItem from="1667473608906" duration="8604000" />
-      <workItem from="1667494631271" duration="3597000" />
+      <workItem from="1667494631271" duration="5274000" />
+      <workItem from="1667504118881" duration="40000" />
+      <workItem from="1667504167425" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1665997453164</created>
@@ -164,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667501609739</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="первый экран пилится">
+      <created>1667501887257</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667501887257</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
